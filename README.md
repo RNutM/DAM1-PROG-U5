@@ -1,7 +1,7 @@
 # DAM1-PROG-U5
 Ejercicios Unidad 5
 
-* Abre los archivos PDF (DAM1-PROG-U5\Unidad5\docs\\*.pdf) para ver las descripciones de todos los algoritmos enumerados de los diferentes paquetes.
+* Abre los archivos PDF (DAM1-PROG-U5\ProgUnidad5\docs\\*.pdf) para ver las descripciones de todos los algoritmos enumerados de los diferentes paquetes.
 * IDE Eclipse
 
 * Proyectos 2018-2019
