@@ -1,0 +1,5 @@
+Juan tiene de media 8.33
+María tiene de media 9.67
+José tiene de media 9.33
+Roberto tiene de media 9.0
+Elisa tiene de media 9.0

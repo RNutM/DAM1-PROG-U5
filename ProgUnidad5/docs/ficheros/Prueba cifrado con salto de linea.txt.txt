@@ -1,0 +1,1 @@
+Esto es una prueba de escritura y de salto de linea sin cortar las palabras cuando coinciden con otra palabra y solo salta cuando hay un espacio

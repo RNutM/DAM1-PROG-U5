@@ -1,0 +1,25 @@
+Ahora presento uno más conocido, sucede "de la nada", te calienta la cabeza (como toda pantalla azul) y como en la mayoría de los casos, no tiene explicación... hasta ahora jeje
+
+Un pantallazo de como se ve...
+
+error
+
+
+¡¡Explicación!!
+
+
+El error IRQL_NOT_LESS_OR_EQUAL se produce cuando un driver está intentando acceder a una posición de memoria no permitida. Muchos dirán, ¿¿¿qué coño es esto???!! jeje.
+
+Bueno, es cuando, como sucede en la mayoría de las causas de las pantallas azules, el driver es obsoleto, o hubo una modificación en el registro que afectó al driver, haciendo que se produzca un error en la comunicación entre el S.O. y el periférico
+
+¿¿¿Entonces... que hacer en estos casos???...
+
+1º. Verificar si los drivers que están instalados están en su estado original, si no fueron modificados por error o por un virus, reinstalando desde el disco de instalación del periférico o si se bajó de internet el driver, desde éste. Una vez hecho esto, verificar que sea la versión más reciente, una actualización puede mejorar la conexión entre el S.O. y el periférico
+
+2º Verificar que los plugins como DirectX, adobe flash player, Adobe shockwave, u otros sean actuales. El más problemático de todos es el Flash player, ya que puede "colgar nuestra CPU", ya que es muy pesado, y constantemente entra en conflicto con el programa que lo utiliza. Muchas aplicaciones utilizan como base este plugin, por ejemplo, el Messenger.
+
+3º Realizar un escaneo del registro de Windows para verificar que todo esté en orden, una nueva instalación de cualquier programa puede modificar un registro de otro programa previamente instalado, creando conflictos y por ende errores o pantallazos
+
+Una vez hecho todo esto se puede suponer que el drama está solucionado, pero como es Windows... se puede esperar más..
+
+Otra solución puede ser, verificando la(s) memoria(s) instalada en el equipo, si se encuentran bien instaladas y sin polvo
