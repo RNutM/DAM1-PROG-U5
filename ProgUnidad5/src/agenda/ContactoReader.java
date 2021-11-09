@@ -5,7 +5,11 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class ContactoReader {
-
+	/**
+	 * Probando con ficheros
+	 * 
+	 * @author Robert G
+	 */
 	private FileReader reader;
 	private BufferedReader input;
 
@@ -49,6 +53,6 @@ public class ContactoReader {
 			c.setDeuda(Double.parseDouble(cadena));
 			System.out.println("\nFichero leído correctamente.");
 		}
-		return c ;
+		return c;
 	}
 }

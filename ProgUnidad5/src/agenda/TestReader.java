@@ -3,7 +3,11 @@ package agenda;
 import java.io.IOException;
 
 public class TestReader {
-
+	/**
+	 * Probando con ficheros
+	 * 
+	 * @author Robert G
+	 */
 	public static void main(String[] args) throws IOException {
 
 		ContactoReader entrada = new ContactoReader();

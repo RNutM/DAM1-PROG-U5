@@ -1,7 +1,11 @@
 package agenda;
 
 public class Contacto {
-
+	/**
+	 * Probando con ficheros
+	 * 
+	 * @author Robert G
+	 */
 	private String nombre;
 	private String email;
 	private String direccion;

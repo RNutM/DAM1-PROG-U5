@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 public class ContactoWriter {
-
+	/**
+	 * Probando con ficheros
+	 * 
+	 * @author Robert G
+	 */
 	private FileWriter writer;
 	private PrintWriter output;
 
