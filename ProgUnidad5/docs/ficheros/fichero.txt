@@ -1,10 +1,4 @@
-Esto es una prueba
-Otra linea más
-hola
-que tal
-esto es una prueba
-de escritura en un fichero de texto
-hasta que escriba la palabra
-Hola esto es una prueba
-de escribir hasta que pulse
-f i n
+Hola,
+Esto es una prueba para escribir un fichero de texto.
+Ahora seguiré escribiendo hasta que ponga la palabra fin
+al empezar una línea....

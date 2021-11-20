@@ -2,8 +2,12 @@ package ficheros;
 
 import java.io.*;
 
-public class alumnosnotamedia {
-
+public class AlumnosNotaMedia {
+	/**
+	 * Notas medias de cada alumno
+	 * 
+	 * @author Robert G
+	 */
 	public static void main(String[] args) throws IOException {
 
 		FileReader fr = new FileReader(".\\docs\\ficheros\\notas1.csv");
