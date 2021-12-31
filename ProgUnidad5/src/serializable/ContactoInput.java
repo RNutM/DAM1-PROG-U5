@@ -30,7 +30,6 @@ public class ContactoInput {
 			try {
 				c = (Contacto) input.readObject();
 			} catch (ClassNotFoundException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 				System.err.println("No encuentra la clase contacto");
 			}
