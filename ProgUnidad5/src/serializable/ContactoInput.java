@@ -15,7 +15,7 @@ public class ContactoInput {
 
 	// Abrir el fichero
 	public void abrir() throws IOException {
-		file = new FileInputStream(".\\docs\\ficheros\\clientes.ser");
+		file = new FileInputStream(".\\ficheros\\clientes.ser");
 		input = new ObjectInputStream(file);
 	}
 

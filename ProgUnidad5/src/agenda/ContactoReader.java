@@ -15,7 +15,7 @@ public class ContactoReader {
 
 	// Abrir el fichero
 	public void abrir() throws IOException {
-		reader = new FileReader(".\\docs\\ficheros\\clientes.txt");
+		reader = new FileReader(".\\ficheros\\clientes.txt");
 		input = new BufferedReader(reader);
 	}
 

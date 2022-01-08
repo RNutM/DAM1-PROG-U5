@@ -15,7 +15,7 @@ public class ContactoWriter {
 
 	// Abrir el fichero
 	public void abrir() throws IOException {
-		writer = new FileWriter(".\\docs\\ficheros\\clientes.txt", false);
+		writer = new FileWriter(".\\ficheros\\clientes.txt", false);
 		output = new PrintWriter(writer);
 	}
 

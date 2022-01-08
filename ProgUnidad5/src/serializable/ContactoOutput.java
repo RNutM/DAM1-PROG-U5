@@ -15,7 +15,7 @@ public class ContactoOutput {
 
 	// Abrir el fichero
 	public void abrir() throws IOException {
-		file = new FileOutputStream(".\\docs\\ficheros\\clientes.ser");
+		file = new FileOutputStream(".\\ficheros\\clientes.ser");
 		output = new ObjectOutputStream(file);
 	}
 
